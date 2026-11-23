@@ -1,25 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7abfff&height=190&text=Jaekyung's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-</div>
 
 <div align="center">
 
-### 안녕하세요! 배재경입니다 👋  
-**Frontend 중심으로 배우고 만들고 성장하는 개발자**입니다 ✨
+![header](https://capsule-render.vercel.app/api?type=waving&color=7abfff&height=180&section=header&text=Jaekyung's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-꾸준히 배우고, 팀 프로젝트와 해커톤을 통해  
-아이디어를 실제 서비스로 구현하는 과정을 좋아해요 💙
+### Hi there! 👋
 
-</div>
+**AI & Frontend Developer**
+
+사용자 경험을 고민하고, 아이디어를 실제 서비스로 구현하는 개발자입니다.
 
 <br>
 
-## 🌷 About Me
+</div>
 
-- 🎓 성신여자대학교 AI융합학부
-- 💻 React · TypeScript 기반 프론트엔드 개발에 관심이 있어요
-- 🤖 AI, 데이터 기반 서비스에도 관심이 있어요
-- 🌱 다양한 프로젝트와 협업을 통해 성장하는 중입니다
+## 👩‍💻 About Me
+
+- 🎓 성신여자대학교 AI융합학부 | AI 전공 · IoT 복수전공
+- 💻 React와 TypeScript를 중심으로 프론트엔드 개발
+- 🤖 AI 및 데이터 기반 서비스 개발에도 관심
+- 🌱 다양한 팀 프로젝트와 해커톤을 통해 협업 경험을 쌓는 중
 
 <br>
 
@@ -68,15 +67,15 @@
 
 <br>
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [📍 Meetdle](https://github.com/jaekyung10/Meetdle_FE) | 중간 지점 탐색 및 약속 장소 결정 서비스 | React, TypeScript |
+| [📍 Meetdle](https://github.com/jaekyung10/Meetdle_FE) | 중간 지점 탐색 및 약속 장소 결정 서비스 | React, TypeScript, SCSS |
 | [🌐 DARI](https://github.com/jaekyung10/DARI) | AI 기반 글로벌 회의 협업 서비스 | React, Vite |
-| [💅 NailNaeil](https://github.com/jaekyung10/nail-naeil-FE) | 네일 견적 요청 및 예약 서비스 | Kotlin, Android |
-| [💊 Medicine Information Service](https://github.com/jaekyung10/medicine-information-service) | 의약품 정보 검색 웹 서비스 | FastAPI, MySQL |
-| [🎓 Sungshin Club App](https://github.com/jaekyung10/sungshin-club-app) | 동아리 정보 및 일정 관리 앱 | Kotlin, SQLite |
+| [💅 NailNaeil](https://github.com/jaekyung10/nail-naeil-FE) | 네일 디자인 견적 요청 및 예약 서비스 | Kotlin, Android |
+| [💊 Medicine Information Service](https://github.com/jaekyung10/medicine-information-service) | 의약품 정보 검색 웹 서비스 | JavaScript, FastAPI, MySQL |
+| [🎓 Sungshin Club App](https://github.com/jaekyung10/sungshin-club-app) | 대학 동아리 및 일정 관리 앱 | Kotlin, SQLite |
 
 <br>
 
@@ -84,26 +83,23 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jaekyung10&show_icons=true&theme=default&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekyung10&layout=compact&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaekyung10&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaekyung10&layout=compact&hide_border=true)
 
 </div>
 
 <br>
 
-## 💌 Contact
+## 📬 Contact Me
 
-<div align="left">
-  <a href="mailto:jaekyung6011@naver.com">
-    <img src="https://img.shields.io/badge/Email-7abfff?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/jaekyung10">
-    <img src="https://img.shields.io/badge/GitHub-8ec5ff?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
+- 📧 Email: jaekyung6011@naver.com
+- 🐙 GitHub: [@jaekyung10](https://github.com/jaekyung10)
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7abfff&height=100&section=footer" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7abfff&height=100&section=footer)
+
 </div>
