@@ -91,15 +91,22 @@
 
 <br>
 
-## 📬 Contact Me
-<div align="left">
-  <a href="mailto:jaekyung6011@naver.com">
-    <img src="https://img.shields.io/badge/Email-7abfff?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/jaekyung10">
-    <img src="https://img.shields.io/badge/GitHub-8ec5ff?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
+
+## 💌 Contact Me
+
+<a href="mailto:jaekyung6011@naver.com">
+  <img src="https://img.shields.io/badge/Email-7abfff?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+📧 **Email:** [jaekyung6011@naver.com](mailto:jaekyung6011@naver.com)
+
+<br>
+
+<a href="https://github.com/jaekyung10">
+  <img src="https://img.shields.io/badge/GitHub-8ec5ff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+🐙 **GitHub:** [github.com/jaekyung10](https://github.com/jaekyung10)
 
 <br>
 
